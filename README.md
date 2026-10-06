@@ -6,7 +6,7 @@
 
 **Inteligência artificial, cibersegurança e engenharia de software para resolver problemas reais de negócio.**
 
-Grupo Binário · Ocean Mind · São Paulo, Brasil
+Ocean Mind · São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/joao-alves-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-jonesfg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonesfg)
@@ -17,7 +17,7 @@ Grupo Binário · Ocean Mind · São Paulo, Brasil
 
 ## Sobre mim
 
-Sou **AI & Cybersecurity Manager no Grupo Binário**, **fundador da Ocean Mind** e **DPO**. Meu trabalho conecta liderança técnica, segurança da informação, privacidade e desenvolvimento de produtos com inteligência artificial.
+Sou **profissional de IA e cibersegurança**, **fundador da Ocean Mind** e **DPO**. Meu trabalho conecta liderança técnica, segurança da informação, privacidade e desenvolvimento de produtos com inteligência artificial.
 
 Construo soluções que transformam dados e processos em ferramentas úteis: plataformas corporativas de segurança, assistentes com RAG, inteligência operacional, dashboards e sistemas para operações marítimas. Atuo da definição do problema e da arquitetura às integrações, automação, qualidade e entrega.
 
